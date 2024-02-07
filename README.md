@@ -9,4 +9,3 @@
 - [x] 4° Aula Introdução ao GitHub (07/02/2024)
    - Criação do perfil no GitHub
 
-messi melhor da história de todos os tempos of all time

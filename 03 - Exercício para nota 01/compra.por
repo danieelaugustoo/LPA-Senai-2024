@@ -3,9 +3,8 @@ programa
 	
 	funcao inicio()
 	{
-		cadeia nome, endereco, tel, idade, produto 
-		real preco
-	
+		cadeia nome, endereco, idade, produto 
+		real preco, tel
 		escreva("Digite seu nome completo: ")
 		leia(nome)
 		escreva("Coloque seu endereço: ")
@@ -26,7 +25,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 567; 
+ * @POSICAO-CURSOR = 88; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

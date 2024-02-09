@@ -19,7 +19,7 @@ programa
 	escreva("Você é um Fraldinha!")	
 		
 	
- 	se(idade>=12)
+ 	se(idade>=12 e idade<=18)
  	escreva("Você já pode tomar Toddynho")
 
  	se(idade>18)
@@ -31,7 +31,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 22; 
+ * @POSICAO-CURSOR = 307; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
